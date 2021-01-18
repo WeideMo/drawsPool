@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T08:02:10.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="KPHrFZUwuI__vOoB1db8" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T08:06:08.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="wfiIyXMVaUsCO4PuzlIc" version="14.2.4" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="2031" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
@@ -197,6 +197,9 @@
         </mxCell>
         <mxCell id="gRUVwLUXswqrDa5T2dCc-35" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;营销分析能力输出&lt;/span&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1410" y="624.81" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gRUVwLUXswqrDa5T2dCc-36" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px&quot;&gt;H5 SDK目前已具备相对完整的采集功能，提供了运营数据（PV/UV）,用户行为被动采集，用户自定义事件等采集能力，支持PC、微信公众号等H5 形态产品接入。&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="166" y="740" width="224" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
