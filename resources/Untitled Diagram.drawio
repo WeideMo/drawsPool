@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T08:06:08.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="wfiIyXMVaUsCO4PuzlIc" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T08:13:13.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="MV4Hq-yAnMo8xYCiW44S" version="14.2.4" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="2031" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
         <mxCell id="23046e2b9bb16c14-113" value="影武者行动架构图" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="1510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="23046e2b9bb16c14-114" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2021/1/18&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=10;fontColor=#009BFF;" parent="1" vertex="1">
+        <mxCell id="23046e2b9bb16c14-114" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ffffff&quot;&gt;2021/1/18&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=10;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="114" y="90" width="1526" height="20" as="geometry" />
         </mxCell>
         <mxCell id="23046e2b9bb16c14-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;elbow=vertical;html=1;startArrow=none;startFill=0;startSize=10;endArrow=none;endFill=0;endSize=10;strokeColor=#FFFFFF;strokeWidth=3;fontSize=20;fontColor=#FFFFFF;entryX=-0.009;entryY=0.502;entryPerimeter=0;" parent="1" edge="1">
@@ -198,8 +198,17 @@
         <mxCell id="gRUVwLUXswqrDa5T2dCc-35" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;营销分析能力输出&lt;/span&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1410" y="624.81" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gRUVwLUXswqrDa5T2dCc-36" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px&quot;&gt;H5 SDK目前已具备相对完整的采集功能，提供了运营数据（PV/UV）,用户行为被动采集，用户自定义事件等采集能力，支持PC、微信公众号等H5 形态产品接入。&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="166" y="740" width="224" height="100" as="geometry" />
+        <mxCell id="gRUVwLUXswqrDa5T2dCc-36" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px&quot;&gt;H5 SDK&lt;br&gt;&lt;br&gt;目前已具备相对完整的采集功能，提供了运营数据（PV/UV）,用户行为被动采集，用户自定义事件等采集能力，支持PC、微信公众号等H5 形态产品接入。&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;strokeColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="140" y="730" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gRUVwLUXswqrDa5T2dCc-37" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px&quot;&gt;采集服务改造：&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;1、基于Lua采集服务进行优化、测试和升级上线；&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;strokeColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="420" y="730" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gRUVwLUXswqrDa5T2dCc-38" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;数据分析改造：&lt;br&gt;1、 根据功能需求，甄选出所需的计算任务，仅保留所需的任务运行；&lt;br&gt;2、根据平台需求，对数据进行数据持久化，包括到hbase\ES\Redis等存储介质。&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;strokeColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="710" y="730" width="560" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gRUVwLUXswqrDa5T2dCc-39" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Web平台改造&lt;br&gt;1、包括Web平台的登录框改造，页面重构；&lt;br&gt;2、用户、产品、权限等业务模块的解耦处理；&lt;br&gt;3、后续的其他的分析能力输出。&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;strokeColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="730" width="300" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
